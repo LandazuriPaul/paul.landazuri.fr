@@ -9,13 +9,16 @@ jobs:
     runs-on: ubuntu-latest
     env:
       REGISTRY: ghcr.io
+    permissions:
+      contents: read
+      packages: write
     steps:
       - name: Check out the repo
         uses: actions/checkout@v4
 
       - name: Set SHORT_SHA
         run: |
-          echo "SHORT_SHA=`echo ${GITHUB_SHA} | cut -c1-8`" >> $GITHUB_ENV
+          echo "SHORT_SHA=`echo ${GITHUB_SHA} | cut -c1-7`" >> $GITHUB_ENV
 
       - name: Set REPO (lowercase)
         run: |
