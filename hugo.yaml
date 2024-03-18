@@ -27,3 +27,5 @@ params:
     - key: 1
       name: linkedin
       url: https://www.linkedin.com/in/landazuripaul/
+  footerHtml: |
+    Built with <a href="https://gohugo.io" class="footerLink">Hugo</a> and <a href="https://github.com/LordMathis/hugo-theme-nightfall" class="footerLink">Nightfall</a> theme. <a href="https://github.com/LandazuriPaul/portfolio" class="footerLink">See on GitHub</a>.
