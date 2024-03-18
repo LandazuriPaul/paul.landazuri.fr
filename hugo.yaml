@@ -15,7 +15,7 @@ menu:
 params:
   user: paul
   hostname: landazuri.fr
-  sitedescription: Paul Landázuri's portfolio
+  sitedescription: Paul Landázuri's little corner of the web
   author:
     name: Paul Landázuri
     readingTime: false
@@ -28,4 +28,4 @@ params:
       name: linkedin
       url: https://www.linkedin.com/in/landazuripaul/
   footerHtml: |
-    Built with <a href="https://gohugo.io" class="footerLink">Hugo</a> and <a href="https://github.com/LordMathis/hugo-theme-nightfall" class="footerLink">Nightfall</a> theme. <a href="https://github.com/LandazuriPaul/portfolio" class="footerLink">See on GitHub</a>.
+    Built with <a href="https://gohugo.io" class="footerLink">Hugo</a> and <a href="https://github.com/LordMathis/hugo-theme-nightfall" class="footerLink">Nightfall</a> theme. <a href="https://github.com/LandazuriPaul/paul.landazuri.fr" class="footerLink">See on GitHub</a>.

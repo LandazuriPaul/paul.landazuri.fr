@@ -1,4 +1,4 @@
-module github.com/landazuripaul/portfolio
+module github.com/landazuripaul/paul.landazuri.fr
 
 go 1.21.4
 

@@ -1,8 +1,8 @@
-# Paul Landázuri's Portfolio
+# Paul Landázuri's little corner of the web
 
-This is the source code for my personal portfolio: [https://paul.landazuri.fr](https://paul.landazuri.fr).
+This is the source code for my personal website: [https://paul.landazuri.fr](https://paul.landazuri.fr).
 
-This portfolio is a static website generated using [Hugo](https://gohugo.io/)
+It is a static website generated using [Hugo](https://gohugo.io/)
 and the [Nightfall theme](https://github.com/LordMathis/hugo-theme-nightfall).
 
 ## Local development
