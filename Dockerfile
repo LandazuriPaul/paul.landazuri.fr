@@ -1,4 +1,4 @@
-FROM nginx:alpine as runner
+FROM nginx:alpine
 
 # Copy the nginx configuration
 COPY ./nginx.conf /etc/nginx/nginx.conf

@@ -1,0 +1,16 @@
+# we don't build the website in the docker build process
+# we use the local `hugo server` or the CI to build it
+
+# root files
+.editorconfig
+.gitignore
+.hugo_build.lock
+go.*
+hugo.yaml
+README.md
+
+# root folders
+.github
+content
+resources
+static
