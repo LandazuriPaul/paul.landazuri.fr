@@ -1,0 +1,29 @@
+baseURL: https://paul.landazuri.fr/
+languageCode: en-uk
+title: Paul Landázuri
+heme: hugo-theme-nightfall
+
+module:
+  imports:
+    - path: github.com/LordMathis/hugo-theme-nightfall
+
+menu:
+  header:
+    - name: about
+      weight: 1
+      url: about
+params:
+  user: paul
+  hostname: landazuri.fr
+  sitedescription: Paul Landázuri's portfolio
+  author:
+    name: Paul Landázuri
+    readingTime: false
+    published: false
+  social:
+    - key: 0
+      name: github
+      url: https://github.com/LandazuriPaul
+    - key: 1
+      name: linkedin
+      url: https://www.linkedin.com/in/landazuripaul/
