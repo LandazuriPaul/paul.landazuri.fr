@@ -1,7 +1,6 @@
 baseURL: https://paul.landazuri.fr/
 languageCode: en-uk
 title: Paul Landázuri
-heme: hugo-theme-nightfall
 
 module:
   imports:
@@ -12,10 +11,16 @@ menu:
     - name: about
       weight: 1
       url: about
+    - name: projects
+      weight: 2
+      url: projects
 params:
   user: paul
   hostname: landazuri.fr
   sitedescription: Paul Landázuri's little corner of the web
+  published: true
+  readingTime: false
+  showMetadata: true
   author:
     name: Paul Landázuri
     readingTime: false
