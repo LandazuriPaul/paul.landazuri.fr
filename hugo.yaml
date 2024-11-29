@@ -16,7 +16,7 @@ menu:
       url: projects
     - name: presentations
       weight: 3
-      url: presentations
+      url: presentations/
 params:
   user: paul
   hostname: landazuri.fr
