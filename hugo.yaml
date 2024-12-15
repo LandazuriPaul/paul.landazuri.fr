@@ -11,12 +11,12 @@ menu:
     - name: about
       weight: 1
       url: about
-    - name: projects
-      weight: 2
-      url: projects
-    - name: presentations
-      weight: 3
-      url: presentations/
+    # - name: projects
+    #   weight: 2
+    #   url: projects
+    # - name: presentations
+    #   weight: 3
+    #   url: presentations/
 params:
   user: paul
   hostname: landazuri.fr
